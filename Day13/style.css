@@ -1,1 +1,35 @@
 //css file
+body{
+  font-family:'Handlee', cursive;
+  font-weight: bolder;
+  background:black;
+  color:whitesmoke;
+}
+  
+  main {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 800px;
+  }
+  
+  p {
+    text-align: left;
+    padding: 0 20px;
+  }
+  
+  code {
+    color: firebrick;
+  }
+  
+  img {
+    max-width: 400px;
+    height: auto;
+    border-radius:50%;
+
+  }
+  
+  button {
+    margin-top: 20px;
+    background-color:chartreuse;
+   
+  }
