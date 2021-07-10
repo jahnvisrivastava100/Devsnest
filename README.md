@@ -1,10 +1,5 @@
 # Devsnest[ Devsnest Frontend Assignments]
 
-
-
-
-## Overview
-
 <details open="open">
   <summary>Table of Contents</summary>
     <ul>
