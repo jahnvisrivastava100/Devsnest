@@ -1,0 +1,31 @@
+h1{
+    font-weight: normal;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 400px;
+    background-color: rgb(42, 221, 206);
+    color: #000;
+    box-shadow: 3px 5px 6px -2px #000, -6px -7px 6px -2px #ecdede;
+    perspective: 50em;
+}
+
+.meme{
+    width: 100;
+}
+
+.child{
+    margin: 0.2em 0 0.5em 0.2em;
+    text-align: start;
+   -moz-box-shadow: 5px 5px 5px rgba(197, 37, 37, 0.6);
+    -webkit-box-shadow: 5px 5px 5px rgba(177, 13, 13, 0.6);
+    box-shadow: 5px 5px 5px rgba(155, 11, 11, 0.6);
+  
+    filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius=3,MakeShadow=true,ShadowOpacity=0.30);
+    -ms-filter: "progid:DXImageTransform.Microsoft.Blur(PixelRadius=3,MakeShadow=true,ShadowOpacity=0.30)";
+    zoom: 1;;
+}
