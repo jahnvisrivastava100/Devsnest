@@ -21,5 +21,6 @@
        <li><a href="https://github.com/jahnvisrivastava100/Devsnest/tree/main/day17">Day 17</a></li>
        <li><a href="https://github.com/jahnvisrivastava100/Devsnest/tree/main/day18">Day 18</a></li>
        <li><a href="https://github.com/jahnvisrivastava100/Devsnest/tree/main/day19">Day 19</a></li>
+       <li><a href="https://github.com/jahnvisrivastava100/Devsnest/tree/main/day20">Day 20</a></li>
    
 </details>
