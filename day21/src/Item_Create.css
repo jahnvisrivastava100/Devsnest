@@ -1,0 +1,29 @@
+input{
+    display: block;
+    width: 40%;
+    height: 2em;
+}
+
+input, button{
+    height: 2em;
+}
+
+
+
+.inputs{
+    display: flex;
+    justify-content: space-between;
+}
+button{
+    margin-top: 0.5em;
+    width: 100%;
+    background-color: #0dfd35;
+    border: #fd310d;
+    border-radius: 0.5em;
+    color: white;
+}
+
+.CreateItem{
+    margin: 1em;
+    width: 100%;
+}
