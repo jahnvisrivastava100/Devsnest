@@ -11,9 +11,12 @@ h1{
 }
 
 button{
-  margin-top: 20%;
+  margin-top: 25%;
   margin-left: 45%;
   position: absolute;
-  font-weight: boldercd;
+  font-weight: bolder;
+  width:300px;
+  height:60px;
+  
   background-color: chartreuse;
 }
